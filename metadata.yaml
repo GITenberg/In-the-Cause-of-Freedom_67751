@@ -1,0 +1,38 @@
+_repo: In-the-Cause-of-Freedom_67751
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Gunn, Archie
+    alias: Gunn, Archibald
+    birthdate: 1863
+    deathdate: 1930
+    gutenberg_agent_id: '36251'
+    url: http://www.gutenberg.org/2009/agents/36251
+creator:
+  author:
+    agent_name: Marchmont, Arthur W.
+    alias: Marchmont, Arthur Williams
+    birthdate: 1852
+    deathdate: 1923
+    gutenberg_agent_id: '37728'
+    url: http://www.gutenberg.org/2009/agents/37728
+description: ''
+gutenberg_issued: '2022-04-01'
+identifiers:
+  gutenberg: '67751'
+language: en
+pgterms:marc904: https://archive.org/details/incauseoffreedom00marciala/mode/2up
+pgterms:marc905: 20200526112535marchmont
+pgterms:marc906: '1907'
+pgterms:marc907: US
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :Frederick A. Stokes Company,1907.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: In the Cause of Freedom
+url: http://www.gutenberg.org/ebooks/67751
